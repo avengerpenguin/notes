@@ -47,5 +47,81 @@ Three or more narratives layered within eaqch other.
 
 Core story at the centre and others elaborate on it. First story you being is the last you finish.
 
-"Growing up "
+"Growing up, I fanced many obstacles... I had a 2nd grade teacher who taught me... What I learned was..."
 
+Titanic:
+
+- Old woman
+- Jack and wossname
+
+### Sparklines
+
+Structure often contrast ordinary with extraordinary/ideal.
+
+Steve Jobs: unveils iPhone. Talks about clunky reality of phones and paints a picture of what it could be.
+
+- Inspirating the audience to action
+- Creating hope and excitement
+- Creating a following
+
+"Imagine a world where deploys take 2s... What if tests took only 30s to write..."
+
+MLK "I have a dream" -- contrasting dream world with reality.
+
+### In Medias Res
+
+Narrative begins in the heat of the action, then starts over at the beginning.
+
+Good for short presentations.
+
+- Grabs attention from the start.
+
+"I never thought one semi-colon would cause the destruction of my company..."
+
+### Converging Ideas
+
+Structure that shows the audience how different strands came together.
+
+"How did a philosopher, an English hacker, a CSS MAster and a db wizard come together to create of the biggest software success stories? Twice."
+
+### False Start
+
+Stat telling a predictable story, then disrupt.
+
+- Disrupt expectations
+- Show benefits of a flexible approach
+- Keeping audience engaged
+
+"I raised 15M in funding. Assembled a world class team. And after two years of hard work launched a visually stunning video game. But this isn't a story about success. This is a story about failure."
+
+### Petal Structure
+
+Organise multiple stories around central concept.
+
+- Show how strands are interconnected
+- Showing how several scenarions relate back to one idea
+
+Uses repetition like as with Sparklines.
+
+> What is Slack so successful?
+> - One of a kind innovation (IRC, Hipchat)
+> - Brilliant founders? (MS, Google)
+> - Good timing? (Palm, Yahoo)
+
+## Key takeaways
+
+### Find your purpose
+
+"If someone walked over to your desk and asked you to explain what you were working on, could you?"
+
+If you can't explain it simply, you don't understand it.
+
+You can be confident if it's aligned with your purpose.
+
+### Find your emotions
+
+"The best speakers speak from the heart. It is not about what they say, it is about how they make you feel."
+
+### Find your composure
+
+Nerves are normal.
