@@ -10,3 +10,4 @@ This is a collection of notes written in [[Obsidian]] to form my own [[Digital G
 
 - [[DevOps]]
 - [[Philosophy]]
+- [[Magic The Gathering|Magic: The Gathering]]
