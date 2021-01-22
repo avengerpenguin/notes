@@ -30,7 +30,7 @@ Jargon is a shortcut to comms. Useful only if there's a prior understanding.
 
 Hit pause -- Go away and get a valuable response -- say "I don't know"
 
-Show how to use resources
+Show how to use resources to find things out.
 
 ## Mentor Better
 
