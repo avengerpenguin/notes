@@ -19,6 +19,12 @@
 
 ## Takeaways
 
+Quick:
+
+* J never chaotic, P never lawful
+* F always good, T never good
+* I/E and S/N blur a lot
+
 ### Worldviews
 
 * ST -> Evil except for ISTJ being neutral, so fairly evil (pragmatic worldview isn't good)
@@ -46,3 +52,13 @@
 * FP entirely chaotic good (strong Fi all round?)
 * FJ always good, mostly neutral (except ESFJ being the nicest one)
 
+### Dominant Functions
+
+* Ne brings the chaos
+* Fe is good and lawful or neutral (never chaos)
+* Ti is neutral -- evil when with Se, true neutral with Ne
+* Te is lawful evil
+* Se is chaotic -- evil with Ti, good with Fi
+* Si is neutral good with Fe, lawful neutral with Te (compassion trumps rules or rules trump compassion)
+* Ni is neutral -- true neutral with Te, neutral good with Fe
+* Fi is chaotic good
