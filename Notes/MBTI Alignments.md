@@ -41,9 +41,9 @@ Quick:
 ### Core Intelligences
 
 * NP almost always chaotic except with INTP
-* NJ never chaotic, mostly neutral, good when with F, neutral/evil with T (so visionary role is quite independent, but F keeps it a good vision)
 * SP generally chaotic, good with F, evil/neutral with T
 * SJ generally lawful, again neutral/evil with T, good with F
+* NJ never chaotic, mostly neutral, good when with F, neutral/evil with T (so visionary role is quite independent, but F keeps it a good vision)
 
 ### Supplementary Intelligences
 
