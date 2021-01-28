@@ -34,9 +34,9 @@ Quick:
 ### Identities
 
 * EJ is never chaotic
-* EP is always chaotic (worldview drives how good or evil)
 * IJ Generally neutral, never chaotic
 * IP never lawful, varies via worldview as with EP
+* EP is always chaotic (worldview drives how good or evil)
 
 ### Core Intelligences
 
@@ -58,7 +58,7 @@ Quick:
 * Fe is good and lawful or neutral (never chaos)
 * Ti is neutral -- evil when with Se, true neutral with Ne
 * Te is lawful evil
-* Se is chao`tic -- evil with Ti, good with Fi
+* Se is chaotic -- evil with Ti, good with Fi
 * Si is neutral good with Fe, lawful neutral with Te (compassion trumps rules or rules trump compassion)
 * Ni is neutral -- true neutral with Te, neutral good with Fe
 * Fi is chaotic good
