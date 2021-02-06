@@ -8,7 +8,7 @@
     <link href="http://notes.rossfenning.co.uk/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Ross Notes Full Atom Feed" />
 
 
-  <meta name="description" content="Notes on FOSDEM talk. Web Eras 1991 Simplicity Docker Feedback loop: consolidation -&gt; scale -&gt; complexituy -&gt; consolidation Web Protocol Issues Security has always been an afterthought Privacy doesn’t even come up — you need your own web server Commercial interests drive innovation more than user interests HTTP/2 and HTTP/3 are …" />
+  <meta name="description" content="Notes on FOSDEM talk. My Summary/Thoughts HTTP requires a server, which means centralisation is inevitible. Then things like layers, caches, HTTP/2 are created to deal with scale. The focus seems to be that P2P would be better and not have issues around centralisation, commercial interest capture and censorship …" />
 
 
     <link rel="stylesheet" href="http://notes.rossfenning.co.uk/theme/css/awsm.css" />
@@ -32,6 +32,8 @@
     
 
     <p>Notes on <span class="caps">FOSDEM</span>&nbsp;talk.</p>
+<h2>My&nbsp;Summary/Thoughts</h2>
+<p><span class="caps">HTTP</span> requires a server, which means centralisation is inevitible. Then things like layers, caches, <span class="caps">HTTP</span>/2 are created to deal with scale. The focus seems to be that <span class="caps">P2P</span> would be better and not have issues around centralisation, commercial interest capture and&nbsp;censorship.</p>
 <h2>Web&nbsp;Eras</h2>
 <h3>1991&nbsp;Simplicity</h3>
 <p>Docker</p>
@@ -71,7 +73,87 @@
 <ul>
 <li>Communication</li>
 <li>Sharing stuff (more of barter/trade than social media &#8212; i.e. broadcasting/retweeting) &#8212; Makes me think of <a href="/retweeting-as-voting/">Retweeting as&nbsp;voting</a></li>
+<li>Sharing skills<ul>
+<li>Updating parts of&nbsp;resource</li>
+<li>Selling&nbsp;services</li>
 </ul>
+</li>
+</ul>
+<p>Requires:</p>
+<ul>
+<li>Real-time</li>
+<li><span class="caps">ACL</span>/ownership</li>
+<li>Finer resolution thanentire rersource, e.g. update frame in video rather than upload entire&nbsp;video</li>
+</ul>
+<h3>What is&nbsp;real-time?</h3>
+<ul>
+<li>Consume data while it is in the prcess of being&nbsp;produced</li>
+<li>Produce, consume in&nbsp;chunks</li>
+<li>Data streaming, e.g. video is high bandwidth, but has low latency&nbsp;requirements</li>
+</ul>
+<h3>Requirements</h3>
+<ul>
+<li>Data streaming &#8212; Something other than <span class="caps">HTTP</span></li>
+<li>Access control &#8212; <span class="caps">E2E</span> encryption (shared symmetric&nbsp;key)</li>
+<li>Ownership &#8212; Encryption (private&nbsp;key)</li>
+<li>Server-side processing &#8212; Remote&nbsp;APIs</li>
+<li>No <span class="caps">MITM</span> &#8212; Something other than <span class="caps">HTTP</span></li>
+</ul>
+<h3>Data&nbsp;Locality</h3>
+<p>People have multiple devices, so personal data are&nbsp;fragmented.</p>
+<ul>
+<li>
+<p>Web is&nbsp;client/server</p>
+<ul>
+<li>Data is in central&nbsp;location</li>
+<li>Allows for multiple&nbsp;clients</li>
+</ul>
+</li>
+<li>
+<p>Multiple personal&nbsp;devices</p>
+<ul>
+<li>Multiple link technologies (WiFi/<span class="caps">LTE</span>)</li>
+<li>each with own&nbsp;storage</li>
+</ul>
+</li>
+<li>
+<p>IoT/Smart&nbsp;sensors</p>
+<ul>
+<li>Data is in hundreds of&nbsp;locations</li>
+<li>IoT connectivity may not make devices ideal for &#8220;client&#8221; role. (<span class="caps">BLE</span>,&nbsp;LoRa)</li>
+</ul>
+</li>
+</ul>
+<p>Might be better to have local synchronisation rather than going back to a central server.&nbsp;(iCloud?!)</p>
+<p>Additional&nbsp;requirements:</p>
+<ul>
+<li>Smooth handover &#8212;&nbsp;Multi-home/-path/-link</li>
+<li>Selective sync &#8212;&nbsp;PubSub</li>
+<li>Heterogenous link tech &#8212; Overlay&nbsp;network</li>
+<li>No strict client/server &#8212; <span class="caps">P2P</span> (My thought: what about <span class="caps">DNS</span>?)</li>
+</ul>
+<h2>Drones</h2>
+<p>Toys, military,&nbsp;commercial</p>
+<p><span class="caps">BVLOS</span>: Beyond Visual Line of&nbsp;Sight</p>
+<p><span class="caps">EASA</span> requirements: reliable Command, Control and Comms (C3)&nbsp;links.</p>
+<p>C3 link handover. When mast goes out of sight, satellite takes over. Like when your wifi drops out of the house and mobile device switches to&nbsp;4G.</p>
+<h2>Vision</h2>
+<h3>Human-Centric</h3>
+<ul>
+<li>Our data will live on manay&nbsp;devices</li>
+<li>We can acess our data anytime, in part (fast) or in full (slow&nbsp;maybe)</li>
+<li>We can access our data from any&nbsp;device</li>
+<li>We can share and collaborate on our&nbsp;data</li>
+<li>We can selectively sloow access to our data from processing&nbsp;nodes</li>
+</ul>
+<h3>Infra</h3>
+<p>Need more infrastructure protocols, not application&nbsp;frameworks.</p>
+<h2>Peer-to-Peer</h2>
+<ul>
+<li>Peer as in&nbsp;host</li>
+</ul>
+<h2>Progress</h2>
+<h2>- Liberate:&nbsp;https://gitlab.com/interpeer/liberate</h2>
 
 	</main>
 
