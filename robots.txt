@@ -1,0 +1,4 @@
+
+User-agent: *
+Disallow: /drafts/
+Sitemap: http://notes.rossfenning.co.uk/sitemap.xml
